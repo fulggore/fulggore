@@ -1,11 +1,10 @@
--Olá, sou Eduardo Cavalcante, desenvolvedor em treinamento. Prazer em te conhecer!
-- Hello, I'm @fulggore, brazilian developer in training. Nice to meet you!
+-Olá, sou Eduardo Cavalcante, desenvolvedor e designer. Prazer em te conhecer!
+- Hello, I'm @fulggore, brazilian developer and designer. Nice to meet you!
 
 
 - C#
-- MySQL
+- Python
 - PostgreSQL
-- PHP
 
 <!---
 fulggore/fulggore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
